@@ -1,5 +1,5 @@
 # termometrodigital.
-Termometro Digital - Sistemas Embarcados
+Termometro Digital - Sistemas Embarcados - Guilherme Pinheiro e Jurandir Neto
 
 O aparelho Termômetro Digital é usado para determinar os valores de temperatura.   
 
